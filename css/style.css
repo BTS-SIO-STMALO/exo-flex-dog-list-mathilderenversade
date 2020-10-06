@@ -1,0 +1,27 @@
+body {
+    background-color: #5B9EED;
+}
+
+.list-wrapper {
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto;
+}
+
+.list {
+    background-color: white;
+    padding: 15px;
+    border-radius: 2px;
+    box-shadow: 0 2px 6px gray;
+}
+
+.list-item_image img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.list-item {
+    display: flex;
+    padding: 10px 5px;
+}
